@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Sxmmm/test-package/compare/v1.3.0...v1.3.1) (2024-11-03)
+
+
+### Bug Fixes
+
+* added package-lock to updated assets on release ([20220d1](https://github.com/Sxmmm/test-package/commit/20220d175afbbd85f41e421dc4f80405807b78f1))
+
 # [1.3.0](https://github.com/Sxmmm/test-package/compare/v1.2.0...v1.3.0) (2024-11-03)
 
 
