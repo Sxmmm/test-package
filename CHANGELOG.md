@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Sxmmm/test-package/compare/v1.0.0...v1.1.0) (2024-11-03)
+
+
+### Features
+
+* installed semantic-release/npm to bump package version ([bce209a](https://github.com/Sxmmm/test-package/commit/bce209aa63c9d70923b59f35b6b01058762064d9))
+
 # 1.0.0 (2024-11-03)
 
 
