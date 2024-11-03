@@ -1,5 +1,5 @@
 module.exports = {
-    branches: ["master"],
+    branches: ["release"],
     repositoryUrl: "https://github.com/Sxmmm/test-package.git",
     plugins: [
         "@semantic-release/commit-analyzer",
