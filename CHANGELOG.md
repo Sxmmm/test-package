@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Sxmmm/test-package/compare/v1.2.0...v1.3.0) (2024-11-03)
+
+
+### Features
+
+* added dist to the release config ([2d0e42a](https://github.com/Sxmmm/test-package/commit/2d0e42a24f5a1d3457fb4c66f6982da012906109))
+
 # [1.2.0](https://github.com/Sxmmm/test-package/compare/v1.1.0...v1.2.0) (2024-11-03)
 
 
