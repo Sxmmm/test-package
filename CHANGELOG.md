@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Sxmmm/test-package/compare/v1.0.0...v1.1.0) (2024-11-04)
+
+
+### Features
+
+* added custom logs ([f625094](https://github.com/Sxmmm/test-package/commit/f6250941e801c225a5e197dfcd041ae9263446ba))
+
 # 1.0.0 (2024-11-03)
 
 

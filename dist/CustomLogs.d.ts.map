@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomLogs.d.ts","sourceRoot":"","sources":["../src/CustomLogs.ts"],"names":[],"mappings":"AAAA,oBAAY,OAAO;IACf,GAAG,YAAY;IACf,IAAI,YAAY;CACnB;AAED,qBAAa,UAAU;IACZ,WAAW,CAAC,KAAK,EAAE,MAAM,GAAG,IAAI;IAIhC,WAAW,CAAC,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,OAAO,GAAG,IAAI;CAI3D"}
