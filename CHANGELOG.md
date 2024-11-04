@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Sxmmm/test-package/compare/v1.1.0...v1.1.1) (2024-11-04)
+
+
+### Bug Fixes
+
+* added missed export for custom logs ([1e3fa79](https://github.com/Sxmmm/test-package/commit/1e3fa7993109b69235c379a5357bfeddcd1fff99))
+
 # [1.1.0](https://github.com/Sxmmm/test-package/compare/v1.0.0...v1.1.0) (2024-11-04)
 
 
